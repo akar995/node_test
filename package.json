@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/akar995/node-js-test/issues"
   },
-  "homepage": "https://github.com/akar995/node-js-test#readme"
+  "homepage": "https://github.com/akar995/node-js-test#readme",
+  "dependencies": {
+    "mocha": "^10.1.0"
+  }
 }
