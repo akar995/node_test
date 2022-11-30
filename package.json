@@ -1,0 +1,24 @@
+{
+  "name": "node_test",
+  "version": "0.0.1",
+  "description": "playground for learning test",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akar995/node-js-test.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "test"
+  ],
+  "author": "Akar Imdad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akar995/node-js-test/issues"
+  },
+  "homepage": "https://github.com/akar995/node-js-test#readme"
+}
